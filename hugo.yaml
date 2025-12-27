@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Wired.IO
+title: Rocket
 
 # import hextra as module
 module:
@@ -36,7 +36,7 @@ params:
     logo:
       path: images/logo.png
       dark: images/logo.png
-      link: https://mda2av.github.io/Wired.IO.Docs/
+      link: https://mda2av.github.io/Rocket.Docs/
       width: 50
       height: 50
 
