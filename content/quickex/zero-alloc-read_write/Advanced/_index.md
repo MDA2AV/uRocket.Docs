@@ -1,5 +1,5 @@
 ---
-title: Advanced
+title:
 toc: false
 ---
 
